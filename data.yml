@@ -280,8 +280,8 @@ completed:
   ended: Ended September 31st
   participants: 277
 - name: HAM Radio YSWS
-  description: Related to HAM radio projects.
-  website: 
+  description: Earn your callsign, get a free radio.
+  website: https://ham.hackclub.com
   slack: https://hackclub.slack.com/archives/C01G6UJT2RM
   slackChannel: "#hamradio"
   status: completed
